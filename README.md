@@ -13,7 +13,7 @@ A React Native news app is a mobile app that offers news content to users. The f
 
 # **Get Started**
 Install all the required packages for this project, the following is the path present in the project directory below,
-*NewsApplication/news/requirements.txt*
+*NewsApplication/requirements.txt*
 
 **Install packages using the command**
 
