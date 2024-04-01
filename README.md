@@ -6,8 +6,13 @@ A React Native news app is a mobile app that offers news content to users. The f
 3. The app fetches news articles from various sources and displays them in a user-friendly interface.
 4. Users can browse through different categories of news, such as politics, sports, entertainment, technology, etc.
 5. The app may offer personalized news content based on the user's interests and preferences.
+   
+   ![image](https://github.com/tamanna155/NewsApplication/assets/87202498/e8437f19-fe04-40b2-940b-4ab506044fc2)
+   
    ![image](https://github.com/tamanna155/NewsApplication/assets/87202498/64ae66e1-78ca-4275-9864-1ef0b6f87009)
+   
    ![image](https://github.com/tamanna155/NewsApplication/assets/87202498/e0b61141-c721-4021-b6c0-9bd03c4e1cd3)
+   
    ![image](https://github.com/tamanna155/NewsApplication/assets/87202498/1e5abc48-6836-48c2-844e-65e938b3bb67)
 
 
